@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saputra41
 - 👀 I’m interested in Android & Website Development
-- 🌱 I’m currently learning Laravel and Flutter
-- 💞️ I’m looking to collaborate on Private Project with based on Laravel
+- 🌱 I’m currently learning Laravel, Flutter, Python and Golang
+- 💞️ I’m looking to collaborate on Private Project with based on Laravel or Golang
 - 📫 Reach me at saputra.dev41@gmail.com
 
 <!---
